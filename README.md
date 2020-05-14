@@ -1,4 +1,4 @@
-## Inferring clonality and timing of metastatic spread with WES data from paired primamry tumors and metastases
+# Inferring the clonality and timing of metastatic spread with WES data
 
 
 ## Clonality simulation
