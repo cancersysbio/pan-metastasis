@@ -7,9 +7,9 @@ R
 numpy>=1.18.1
 ```
 
-## An agent-based model for simulating monoclonal/polyclonal seeding
+## An agent-based model for simulating monoclonal or polyclonal seeding
 
 ```console
-./met-clonality/clonality_simulation.py -replicate -seeding_size
+clonality_simulation.py -replicate -seeding_size
 ```
 
