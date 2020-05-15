@@ -1,0 +1,16 @@
+Study	NumPatients	DT
+Fornvik et al (2015)	31	282
+Galante et al (1981)	196	60
+Heuser et al (1979)	32	268
+kuroishi et al (1990)	118	174
+Kusama et aI (1972)	199	105
+lundgren et al (1977)	15	211
+Peer et al (1993)	46	80
+Peer et al (1993)	188	157
+Peer et al (1993)	55	188
+Ryu et al (2014)	37	241
+Ryu et al (2014)	12	162
+Ryu et al (2014)	17	103
+Tabbane et al (1989)	75	115
+von Fournier et al (1980)	147	212
+von Fournier et al (1985)	200	220

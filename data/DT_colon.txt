@@ -1,0 +1,10 @@
+Study	NumPatients	DT
+Bolin et al. 1983	27	195
+Choi et al. 2012	15	401.5
+Choi et al. 2012	2	255.5
+Choi et al. 2012	3	219
+Choi et al. 2012	9	182.5
+Choi et al. 2012	15	292
+Tata et al. 1984	11	243.3
+Welin et al. 1963	20	620
+Umetani et al. 2010	11	204

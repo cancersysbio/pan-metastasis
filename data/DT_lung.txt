@@ -1,0 +1,11 @@
+Study	NumPatients	DT	NumPatients2	DT2
+Arai et al. 1994	237	166	133	222
+Garland et al. 1963	41	162	7	222
+Geddes 1979	228	102	60	161
+Jennings et al. 2006	149	161	51	166
+Mizuno et al. 1984	50	136	23	178
+Schwartz 1961	13	78	2	72
+Spratt and Spratt 1964	34	88	8	118
+Spratt et al. 1963	22	112	7	269
+Usuda et al. 1994	165	164	86	223
+Weiss 1974	28	183	11	214
